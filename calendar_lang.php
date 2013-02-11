@@ -1,4 +1,10 @@
 <?php
+/**
+ * Translated file english > portuguese (brazil)
+ *
+ * @link https://github.com/ClovisFilho/codeigniter-core-translation
+ * @copyright Copyright (c) 2013, Clovis Filho <me@crov.es>
+ */
 
 $lang['cal_su']			= "Do";
 $lang['cal_mo']			= "Se";
